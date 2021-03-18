@@ -8,7 +8,7 @@
 #include <xc.h>
 #include "config.h"
 #include "delay.h"
-#include "display7seg2.h"
+#include "display7seg2.h" /
 
 
 void main(void)                      // void esquerda = (nao recebe/le ou retorna)                                                                                    
